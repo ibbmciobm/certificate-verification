@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Verify CIOB Malaysia Building Excellence Awards certificates." />
+    <meta name="theme-color" content="#082d57" />
+    <title>CIOB Malaysia Certificate Verification</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23082d57'/%3E%3Cpath d='M18 32l9 9 20-21' fill='none' stroke='%23c39a46' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="CIOB Malaysia Certificate Verification home">
+        <img src="./ciob-malaysia-logo.png" alt="CIOB Malaysia" />
+        <span>Certificate Verification</span>
+      </a>
+      <span class="prototype-badge">Prototype</span>
+    </header>
+
+    <main>
+      <section class="verification-shell" aria-labelledby="page-title">
+        <div class="intro">
+          <p class="eyebrow">CIOB Malaysia Building Excellence Awards 2026</p>
+          <h1 id="page-title">Verify an award certificate</h1>
+          <p>Enter the certificate number printed on the certificate. A valid result confirms that the record is signed, unchanged and currently active.</p>
+        </div>
+
+        <form id="verify-form" class="verify-form" novalidate>
+          <label for="certificate-id">Certificate number</label>
+          <div class="input-row">
+            <input id="certificate-id" name="certificate-id" type="text" autocomplete="off" spellcheck="false" placeholder="e.g. CIOBM-BEA-2026-DEMO-001" aria-describedby="input-help" />
+            <button type="submit">Verify certificate</button>
+          </div>
+          <p id="input-help" class="input-help">For this prototype, try <button id="demo-button" class="text-button" type="button">CIOBM-BEA-2026-DEMO-001</button>.</p>
+        </form>
+
+        <section id="result" class="result" aria-live="polite" aria-atomic="true" hidden></section>
+      </section>
+
+      <section class="checks" aria-labelledby="checks-title">
+        <h2 id="checks-title">What the verification checks</h2>
+        <dl>
+          <div>
+            <dt>Certificate record</dt>
+            <dd>The certificate number must exist in the published register.</dd>
+          </div>
+          <div>
+            <dt>Digital signature</dt>
+            <dd>The record must match the CIOB Malaysia verification key and remain unchanged.</dd>
+          </div>
+          <div>
+            <dt>Current status</dt>
+            <dd>The certificate must remain valid and must not have been revoked.</dd>
+          </div>
+        </dl>
+      </section>
+    </main>
+
+    <footer>
+      <p>Prototype certificate register. Replace the demonstration signing key before public launch.</p>
+      <p id="key-fingerprint" class="fingerprint">Verification key: loading…</p>
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

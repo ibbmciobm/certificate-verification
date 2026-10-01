@@ -1,0 +1,17 @@
+[
+  {
+    "schemaVersion": 1,
+    "certificateId": "CIOBM-BEA-2026-DEMO-001",
+    "issuer": "CIOB Malaysia",
+    "programme": "CIOB Malaysia Building Excellence Awards 2026",
+    "recipient": "Demonstration Recipient",
+    "awardCategory": "Demonstration Award Category",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "status": "valid",
+    "documentHash": "",
+    "issuedAt": "2026-10-01T00:00:00.000Z",
+    "keyId": "b90efb20d0b73527",
+    "signature": "rOuoLmhj34yWA_Rfim6f6edAL1LFNdtBWAe7w82J6T3IGcfXuPrS2N5uVmu2n_qcYyosnl4rhWj0KjmabTUvTQ"
+  }
+]

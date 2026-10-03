@@ -15,7 +15,6 @@
         <img src="./ciob-malaysia-logo.png" alt="CIOB Malaysia" />
         <span>Certificate Verification</span>
       </a>
-      <span class="prototype-badge">Prototype</span>
     </header>
 
     <main>
@@ -29,10 +28,10 @@
         <form id="verify-form" class="verify-form" novalidate>
           <label for="certificate-id">Certificate number</label>
           <div class="input-row">
-            <input id="certificate-id" name="certificate-id" type="text" autocomplete="off" spellcheck="false" placeholder="e.g. CIOBM-BEA-2026-DEMO-001" aria-describedby="input-help" />
+            <input id="certificate-id" name="certificate-id" type="text" autocomplete="off" spellcheck="false" placeholder="e.g. CIOBM-BEA-2026-C001" aria-describedby="input-help" />
             <button type="submit">Verify certificate</button>
           </div>
-          <p id="input-help" class="input-help">For this prototype, try <button id="demo-button" class="text-button" type="button">CIOBM-BEA-2026-DEMO-001</button>.</p>
+          <p id="input-help" class="input-help">Enter the certificate number exactly as printed on the certificate.</p>
         </form>
 
         <section id="result" class="result" aria-live="polite" aria-atomic="true" hidden></section>
@@ -47,7 +46,7 @@
           </div>
           <div>
             <dt>Digital signature</dt>
-            <dd>The record must match the CIOB Malaysia verification key and remain unchanged.</dd>
+            <dd>The record must match the verification key of The Chartered Institute of Building Malaysia and remain unchanged.</dd>
           </div>
           <div>
             <dt>Current status</dt>
@@ -58,7 +57,7 @@
     </main>
 
     <footer>
-      <p>Prototype certificate register. Replace the demonstration signing key before public launch.</p>
+      <p>Official Building Excellence Awards 2026 certificate register of The Chartered Institute of Building Malaysia.</p>
       <p id="key-fingerprint" class="fingerprint">Verification key: loading…</p>
     </footer>
 

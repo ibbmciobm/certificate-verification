@@ -1,16 +1,16 @@
 {
-  "issuer": "CIOB Malaysia",
-  "keyId": "b90efb20d0b73527",
+  "issuer": "The Chartered Institute of Building Malaysia",
+  "keyId": "ed75b4e6c9003876",
   "algorithm": "ECDSA P-256 SHA-256",
-  "createdAt": "2026-10-01T13:17:06.493Z",
+  "createdAt": "2026-10-03T16:14:54.092Z",
   "publicKeyJwk": {
     "key_ops": [
       "verify"
     ],
     "ext": true,
     "kty": "EC",
-    "x": "_vJYVnsXa5v81p3_jfDgPOEuWaeFAune_CLRDBaOO_4",
-    "y": "gL7spaS2MBKcJAwC8plMyNAAqCi0fv8xIQcy4saxh7I",
+    "x": "tgDhEApEYuZTLFUYkt9NNGmszQbgTZzQWGHj7jzACpk",
+    "y": "Ml7Z-r0uS4E53M7ZDFv-Z1pB2rnOV3CMxrN4pf37m9A",
     "crv": "P-256"
   }
 }

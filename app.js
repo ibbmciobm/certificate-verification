@@ -3,7 +3,6 @@ const KEY_URL = "./public-key.jwk";
 
 const form = document.querySelector("#verify-form");
 const input = document.querySelector("#certificate-id");
-const demoButton = document.querySelector("#demo-button");
 const result = document.querySelector("#result");
 const fingerprintElement = document.querySelector("#key-fingerprint");
 
@@ -103,7 +102,7 @@ function showRecord(record, isValidSignature) {
     <div class="file-check">
       <label for="certificate-file">Optional PDF integrity check</label>
       <input id="certificate-file" type="file" accept="application/pdf" ${record.documentHash ? "" : "disabled"} />
-      <p id="file-check-result">${record.documentHash ? "Choose the certificate PDF to confirm that it matches the issued file." : "No PDF hash is stored for this demonstration record."}</p>
+      <p id="file-check-result">${record.documentHash ? "Choose the certificate PDF to confirm that it matches the issued file." : "No PDF hash is stored for this certificate."}</p>
     </div>`;
   result.hidden = false;
 
@@ -150,11 +149,6 @@ async function verifyCertificate(rawId) {
 
 form.addEventListener("submit", (event) => {
   event.preventDefault();
-  verifyCertificate(input.value);
-});
-
-demoButton.addEventListener("click", () => {
-  input.value = "CIOBM-BEA-2026-DEMO-001";
   verifyCertificate(input.value);
 });
 

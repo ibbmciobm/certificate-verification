@@ -1,0 +1,26 @@
+GITHUB UPLOAD — UPDATED INVITATION CERTIFICATE RECORDS
+
+Repository:
+https://github.com/ibbmciobm/certificate-verification
+
+Upload each file to the matching GitHub location:
+
+1. dist/certificates.json
+   GitHub location: dist/certificates.json
+   This is the live verification register.
+
+2. dist/data/certificates.json
+   GitHub location: dist/data/certificates.json
+   This is the public backup copy.
+
+3. data/certificates-all-2026.json
+   GitHub location: data/certificates-all-2026.json
+   This is the master input record list.
+
+Commit message:
+Update revised invitation recipient names
+
+After committing to the main branch, check the Actions page and wait for the
+Deploy certificate verification site workflow to show a green tick.
+
+Do not upload any .secrets folder or private-key.jwk file.

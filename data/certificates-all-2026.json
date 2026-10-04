@@ -1,0 +1,389 @@
+[
+  {
+    "certificateId": "CIOBM-BEA-2026-C001",
+    "recipient": "IJM Construction Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Commercial Buildings",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.587Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C002",
+    "recipient": "Sunway Construction Group Berhad",
+    "awardCategory": "Construction Company of the Year: Healthcare Facilities",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.589Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C003",
+    "recipient": "Pelangi Teliti (M) Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Industrial Engineering",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.590Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C004",
+    "recipient": "Infra Segi Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Mixed Use Development",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.590Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C005",
+    "recipient": "Syarikat Pembenaan Yeoh Tiong Lay Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Transport Infrastructure",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.590Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C006",
+    "recipient": "WCT Berhad",
+    "awardCategory": "Construction Company of the Year: Public Infrastructure",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.590Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C007",
+    "recipient": "Gamuda Berhad",
+    "awardCategory": "Construction Company of the Year: Engineering Infrastructure",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.590Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C008",
+    "recipient": "Sunray Construction & Interior Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Renovation and Restoration",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.591Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C009",
+    "recipient": "KCP Projects Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Specialist Works",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.591Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C010",
+    "recipient": "LLC Victory Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Residential Landed",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.591Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C011",
+    "recipient": "Crest Builder Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Residential Strata High-Rise",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.591Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C012",
+    "recipient": "China Communications Construction (ECRL) Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Integrated Infrastructure",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.591Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C013",
+    "recipient": "Epicon Berhad",
+    "awardCategory": "Construction Company of the Year: Affordable Housing",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.591Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C014",
+    "recipient": "Longmotive (M) Sdn Bhd",
+    "awardCategory": "Rising Star Company Award",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.591Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C015",
+    "recipient": "Dr Lai Ke En",
+    "awardCategory": "Rising Star Individual Award",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.591Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C016",
+    "recipient": "Dato' Yeoh Soo Keng",
+    "awardCategory": "Women of the Year",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.592Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C017",
+    "recipient": "BIMAGE Consulting Malaysia",
+    "awardCategory": "Digital Innovation Excellence Award: Integrated Digital Transformation",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.592Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C018",
+    "recipient": "Glodon Malaysia",
+    "awardCategory": "Digital Innovation Excellence Award: Productivity and Automation",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.592Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-C019",
+    "recipient": "Pentago Landscape Sdn Bhd",
+    "awardCategory": "Sustainability Design Award",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-03T16:22:03.592Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-001",
+    "recipient": "Kementerian Kerja Raya Malaysia",
+    "awardCategory": "CIOB Malaysia Distinguished Government Partner Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-002",
+    "recipient": "Construction Industry Development Board (CIDB) Malaysia",
+    "awardCategory": "CIOB Malaysia Distinguished Industry Development Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-003",
+    "recipient": "Master Builders Association Malaysia (MBAM)",
+    "awardCategory": "CIOB Malaysia Distinguished Industry Partnership Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-004",
+    "recipient": "Dato’ Sri Alexander Nanta Linggi",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership Award – Public Infrastructure",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-005",
+    "recipient": "Sr Ahmad Farrin Mokhtar",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership Award – Industry Development",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-006",
+    "recipient": "Mr Oliver Wee Hiang Chyn",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership Award – Industry Partnership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-007",
+    "recipient": "Telford Engineering Sdn Bhd",
+    "awardCategory": "Chartered Building Company Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-008",
+    "recipient": "Contract Solution-I PLT",
+    "awardCategory": "Chartered Building Consultancy Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-009",
+    "recipient": "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+    "awardCategory": "Honourable Education & Institutional Support Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-010",
+    "recipient": "Universiti Teknologi MARA (UiTM)",
+    "awardCategory": "Honourable Education & Institutional Support Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-011",
+    "recipient": "Datuk Ir. Hamzah Hasan",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-012",
+    "recipient": "Datuk Ir. Ahmad ‘Asri Abdul Hamid",
+    "awardCategory": "CIOB Malaysia Honourable Patron Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-013",
+    "recipient": "Dato’ Zainora Zainal",
+    "awardCategory": "CIOB Malaysia Honourable Patron Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-014",
+    "recipient": "Datuk Abdul Rahman Abdullah",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-015",
+    "recipient": "Datuk Seri (Dr) Michael Yam Kong Choy",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-016",
+    "recipient": "Sr Isacc Sunder Rajan",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-017",
+    "recipient": "Mr Peter Lim Kien Lai",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-018",
+    "recipient": "Sr Ong Bok Siong",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-019",
+    "recipient": "Ts. Ho Chee Leong",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-020",
+    "recipient": "Ir. Loi Yew Hua",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-021",
+    "recipient": "Yg Arif Dato’ Lim Chong Fong",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-022",
+    "recipient": "Dato’ Ng Kee Leen",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-023",
+    "recipient": "Datuk Kwan Foh Kwai",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-024",
+    "recipient": "Dr Ir. Kong Weng Keong",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-025",
+    "recipient": "Dr Linariza Haron",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-026",
+    "recipient": "Ms Audrey Chen",
+    "awardCategory": "CIOB Malaysia Long Service Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-INV-027",
+    "recipient": "Mr Wong Khin Yip",
+    "awardCategory": "CIOB Malaysia Long Service Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  }
+]

@@ -689,4 +689,20 @@
     "keyId": "ed75b4e6c9003876",
     "signature": "H4Pf8s_foPBhnqRgKuZqAdjWH1RLiiZnbUQWefmCSg20SlZeDQtKgG44camRC3I9ZYsAo3f0RpZCKZy0tRLIUA"
   }
+,
+  {
+    "schemaVersion": 1,
+    "certificateId": "CIOBM-BEA-2026-INV-028",
+    "issuer": "The Chartered Institute of Building Malaysia",
+    "programme": "CIOB Malaysia Building Excellence Awards 2026",
+    "recipient": "Sr Teh Siew Leong",
+    "awardCategory": "CIOB Malaysia Long Service Award",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "status": "valid",
+    "documentHash": "",
+    "issuedAt": "2026-10-04T09:39:33.269Z",
+    "keyId": "ed75b4e6c9003876",
+    "signature": "_gAdrFZE7vT_A9ky_OVn67yfVY4gsP5tLk8GNnD_YFXXHNntHyL4DQAol4Mp_vDKx4Vzmttc3SaGim4xy_bHkQ"
+  }
 ]

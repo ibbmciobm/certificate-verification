@@ -88,14 +88,14 @@ function showRecord(record, isValidSignature) {
     return;
   }
 
-  result.className = "result valid";
+  const resultRow = record.result === "INVITATION AWARD"    ? ""    : `<dt>Result</dt><dd>${escapeHtml(record.result)}</dd>`;  result.className = "result valid";
   result.innerHTML = `
     <div class="result-heading"><span class="status-mark" aria-hidden="true">✓</span><h2>Certificate verified</h2></div>
     <dl class="record-details">
       <dt>Certificate number</dt><dd>${escapeHtml(record.certificateId)}</dd>
       <dt>Recipient or company</dt><dd>${escapeHtml(record.recipient)}</dd>
       <dt>Award category</dt><dd>${escapeHtml(record.awardCategory)}</dd>
-      <dt>Result</dt><dd>${escapeHtml(record.result)}</dd>
+      ${resultRow}
       <dt>Issue date</dt><dd>${escapeHtml(displayDate(record.issueDate))}</dd>
       <dt>Issuer</dt><dd>${escapeHtml(record.issuer)}</dd>
     </dl>

@@ -20,14 +20,14 @@
     "issuer": "The Chartered Institute of Building Malaysia",
     "programme": "CIOB Malaysia Building Excellence Awards 2026",
     "recipient": "Sunway Construction Group Berhad",
-    "awardCategory": "Construction Company of the Year: Healthcare Facilities",
+    "awardCategory": "Construction Company of the Year: Sustainable Construction",
     "result": "WINNER",
     "issueDate": "2026-10-23",
     "status": "valid",
     "documentHash": "",
     "issuedAt": "2026-10-03T16:22:03.589Z",
     "keyId": "ed75b4e6c9003876",
-    "signature": "zCUrONcVaN3gI6R8J3T7_9EJ2UkitAMDUHz0A2M1LUy_iglI53JgpxWat10RH6ff3eUI1Ne02gxFqaPNfFPmgg"
+    "signature": "Lr1cLWkqSjRgFLMLFoGjsAMvjf15F-0dEAlj1xQGf9uU-s3KZ5Drmda7eYxRpw0ViTulAvCZVYzBHFL84LapPw"
   },
   {
     "schemaVersion": 1,
@@ -649,7 +649,7 @@
     "certificateId": "CIOBM-BEA-2026-INV-025",
     "issuer": "The Chartered Institute of Building Malaysia",
     "programme": "CIOB Malaysia Building Excellence Awards 2026",
-    "recipient": "Dr Linariza Haron",
+    "recipient": "Dr Yeow Yoon Foo",
     "awardCategory": "CIOB Malaysia Distinguished Leadership",
     "result": "INVITATION AWARD",
     "issueDate": "2026-10-23",
@@ -657,7 +657,7 @@
     "documentHash": "",
     "issuedAt": "2026-10-04T04:43:40.022Z",
     "keyId": "ed75b4e6c9003876",
-    "signature": "5hZFWc4D2F5lkWTxwNRG5pNYaxDh8L1mSYLT4XXk-TVJ5lWM0NFNEqc005GpCXLnL2RW4Jx_M_TsaNtLssp0QQ"
+    "signature": "3H_hpFsVA1zH2WKQTJYM9xFWBIiu59P-0tqBJXCb9weteTvDDXZq5Wj85_m0QythHniqamK2A8AvcVgYt-U-NQ"
   },
   {
     "schemaVersion": 1,

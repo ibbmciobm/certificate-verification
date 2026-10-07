@@ -171,6 +171,14 @@
     "issuedAt": "2026-10-03T16:22:03.592Z"
   },
   {
+    "certificateId": "CIOBM-BEA-2026-C020",
+    "recipient": "ID&A Method Sdn Bhd",
+    "awardCategory": "Construction Company of the Year: Interior Design and Fit-Out",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": ""
+  },
+  {
     "certificateId": "CIOBM-BEA-2026-INV-001",
     "recipient": "Kementerian Kerja Raya Malaysia",
     "awardCategory": "CIOB Malaysia Distinguished Government Partner Award",
@@ -385,8 +393,7 @@
     "result": "INVITATION AWARD",
     "issueDate": "2026-10-23",
     "documentHash": ""
-  }
-,
+  },
   {
     "certificateId": "CIOBM-BEA-2026-INV-028",
     "recipient": "Sr Teh Siew Leong",
@@ -394,8 +401,7 @@
     "result": "INVITATION AWARD",
     "issueDate": "2026-10-23",
     "documentHash": ""
-  }
-,
+  },
   {
     "certificateId": "CIOBM-BEA-2026-INV-029",
     "recipient": "Dato' Sri Ir. Dr Judin Abdul Karim",

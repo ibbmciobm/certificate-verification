@@ -705,4 +705,20 @@
     "keyId": "ed75b4e6c9003876",
     "signature": "_gAdrFZE7vT_A9ky_OVn67yfVY4gsP5tLk8GNnD_YFXXHNntHyL4DQAol4Mp_vDKx4Vzmttc3SaGim4xy_bHkQ"
   }
+,
+  {
+    "schemaVersion": 1,
+    "certificateId": "CIOBM-BEA-2026-INV-029",
+    "issuer": "The Chartered Institute of Building Malaysia",
+    "programme": "CIOB Malaysia Building Excellence Awards 2026",
+    "recipient": "Dato' Sri Ir. Dr Judin Abdul Karim",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "status": "valid",
+    "documentHash": "",
+    "issuedAt": "2026-10-07T14:20:06.000Z",
+    "keyId": "ed75b4e6c9003876",
+    "signature": "9_Yvv9ieKHq1_gWGHoswKt5hk2BJ_2Z8nfa82M_Qv_xjeZjEN7MgBBH84zJ6s3V5CzBf_w8q4weBJG976klDUw"
+  }
 ]

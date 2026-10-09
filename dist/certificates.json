@@ -754,30 +754,30 @@
     "certificateId": "CIOBM-BEA-2026-MEM-001",
     "issuer": "The Chartered Institute of Building Malaysia",
     "programme": "CIOB Malaysia Building Excellence Awards 2026",
-    "recipient": "Datuk Dr. Bernard Wang Tsun Hao",
+    "recipient": "Dr. Bernard Wang Tsun Hao",
     "awardCategory": "Distinguished Service Recognition",
     "result": "RECOGNITION",
     "issueDate": "2026-10-23",
     "status": "valid",
     "documentHash": "",
-    "issuedAt": "2026-10-09T14:20:22.188Z",
+    "issuedAt": "2026-10-09T15:08:05.388Z",
     "keyId": "ed75b4e6c9003876",
-    "signature": "xGacjEu788zh2HEbY091MzTnW5VXlO3WA09uTj7Ns1YjjpcLUJ48PQAj3GRsReCn-UqfsTgyIe5kWKDQIivrfA"
+    "signature": "3GdntWnQ1TVFGPY76hT7DBX9rHEI4pJpvWI3B2KI7TLMfHl0oybyDSAaScpHhq9-I5viEOlUtIvAqGk1M457rw"
   },
   {
     "schemaVersion": 1,
     "certificateId": "CIOBM-BEA-2026-MEM-002",
     "issuer": "The Chartered Institute of Building Malaysia",
     "programme": "CIOB Malaysia Building Excellence Awards 2026",
-    "recipient": "Prof. Sr. Hj. Mohamad Tahir Bin Hj. Abdul Majid",
+    "recipient": "Sr. Hj. Mohamad Tahir Bin Hj. Abdul Majid",
     "awardCategory": "Distinguished Service Recognition",
     "result": "RECOGNITION",
     "issueDate": "2026-10-23",
     "status": "valid",
     "documentHash": "",
-    "issuedAt": "2026-10-09T14:20:22.188Z",
+    "issuedAt": "2026-10-09T15:08:05.388Z",
     "keyId": "ed75b4e6c9003876",
-    "signature": "kom8b1AyyvJvoLJYkI9TrvGgvJ-AbSsvyknxh8FYX9z-b5UmImgDlCk1UqhMiy8Zi_pFeQo312Bk2PYoICIZLQ"
+    "signature": "4E0XmYxRZb5bIb9K7eF-kqelRd5NRjfiwOPpXAgTLV_lj1aHimMUqrFLhtEgdgvlHAat-wray7vPxv7TThlGxw"
   },
   {
     "schemaVersion": 1,

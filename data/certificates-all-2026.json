@@ -179,6 +179,15 @@
     "documentHash": ""
   },
   {
+    "certificateId": "CIOBM-BEA-2026-C021",
+    "recipient": "JKR Sarawak",
+    "awardCategory": "Digital Innovation Excellence Award: Public Sector Transformation",
+    "result": "WINNER",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-09T14:20:22.188Z"
+  },
+  {
     "certificateId": "CIOBM-BEA-2026-INV-001",
     "recipient": "Kementerian Kerja Raya Malaysia",
     "awardCategory": "CIOB Malaysia Distinguished Government Partner Award",
@@ -409,5 +418,41 @@
     "result": "INVITATION AWARD",
     "issueDate": "2026-10-23",
     "documentHash": ""
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-MEM-001",
+    "recipient": "Datuk Dr. Bernard Wang Tsun Hao",
+    "awardCategory": "Distinguished Service Recognition",
+    "result": "RECOGNITION",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-09T14:20:22.188Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-MEM-002",
+    "recipient": "Prof. Sr. Hj. Mohamad Tahir Bin Hj. Abdul Majid",
+    "awardCategory": "Distinguished Service Recognition",
+    "result": "RECOGNITION",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-09T14:20:22.188Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-MEM-003",
+    "recipient": "Tan Sri Dato' Seri Yeoh Tiong Lay",
+    "awardCategory": "Distinguished Service Recognition",
+    "result": "RECOGNITION",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-09T14:20:22.188Z"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-MEM-004",
+    "recipient": "Mr Siah KM",
+    "awardCategory": "Distinguished Service Recognition",
+    "result": "RECOGNITION",
+    "issueDate": "2026-10-23",
+    "documentHash": "",
+    "issuedAt": "2026-10-09T14:20:22.188Z"
   }
 ]

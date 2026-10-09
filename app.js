@@ -92,6 +92,18 @@ function showRecord(record, isValidSignature) {
   const resultRow = record.result && !hiddenResults.has(record.result)
     ? `<dt>Result</dt><dd>${escapeHtml(record.result)}</dd>`
     : "";
+  const pdfUrl = `./pdfs/2026/${encodeURIComponent(record.certificateId)}.pdf`;
+  const digitalCopySection = record.documentHash
+    ? `<div class="digital-copy">
+        <a class="download-link" href="${pdfUrl}" download>Download official PDF</a>
+        <div class="file-check">
+          <label for="certificate-file">Verify official PDF</label>
+          <input id="certificate-file" type="file" accept="application/pdf" />
+          <p id="file-check-result">Select the issued PDF to confirm that it is authentic and unchanged.</p>
+          <p class="privacy-note">The file is checked securely in your browser and is not uploaded.</p>
+        </div>
+      </div>`
+    : "";
   result.className = "result valid";
   result.innerHTML = `
     <div class="result-heading"><span class="status-mark" aria-hidden="true">✓</span><h2>Certificate verified</h2></div>
@@ -103,11 +115,7 @@ function showRecord(record, isValidSignature) {
       <dt>Issue date</dt><dd>${escapeHtml(displayDate(record.issueDate))}</dd>
       <dt>Issuer</dt><dd>${escapeHtml(record.issuer)}</dd>
     </dl>
-    <div class="file-check">
-      <label for="certificate-file">Optional PDF integrity check</label>
-      <input id="certificate-file" type="file" accept="application/pdf" ${record.documentHash ? "" : "disabled"} />
-      <p id="file-check-result">${record.documentHash ? "Choose the certificate PDF to confirm that it matches the issued file." : "No PDF hash is stored for this certificate."}</p>
-    </div>`;
+    ${digitalCopySection}`;
   result.hidden = false;
 
   if (record.documentHash) {

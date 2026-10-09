@@ -241,10 +241,30 @@ a:focus-visible {
 
 .record-details dd { font-weight: 650; }
 
-.file-check {
+.digital-copy {
   margin-top: 24px;
   padding-top: 22px;
   border-top: 1px solid rgba(8, 45, 87, 0.14);
+}
+
+.download-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  border: 1px solid var(--navy);
+  border-radius: 4px;
+  padding: 12px 20px;
+  color: white;
+  background: var(--navy);
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.download-link:hover { background: #0c3c70; }
+
+.file-check {
+  margin-top: 24px;
 }
 
 .file-check label {
@@ -256,6 +276,7 @@ a:focus-visible {
 
 .file-check input { width: 100%; background: rgba(255, 255, 255, 0.72); }
 .file-check p { margin: 10px 0 0; color: var(--muted); }
+.file-check .privacy-note { font-size: 0.86rem; }
 
 .checks { padding: 50px 0 0; }
 
@@ -304,4 +325,3 @@ footer p { margin-bottom: 7px; }
   .checks dl > div { grid-template-columns: 1fr; gap: 7px; }
   footer { padding-inline: 20px; }
 }
-

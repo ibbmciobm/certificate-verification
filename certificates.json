@@ -799,14 +799,14 @@
     "certificateId": "CIOBM-BEA-2026-MEM-004",
     "issuer": "The Chartered Institute of Building Malaysia",
     "programme": "CIOB Malaysia Building Excellence Awards 2026",
-    "recipient": "Mr Siah KM",
+    "recipient": "Mr Siah Kwee Mow",
     "awardCategory": "Distinguished Service Recognition",
     "result": "RECOGNITION",
     "issueDate": "2026-10-23",
     "status": "valid",
-    "documentHash": "db23ed7de2e2851ccc16234a164b4e878e99ce4e223377a963ae79ac26e1a3ce",
-    "issuedAt": "2026-10-09T14:20:22.188Z",
+    "documentHash": "6d20aa1c0a27141d059bb5856e1575bf9980455da0badfc468f447d383a7b591",
+    "issuedAt": "2026-10-10T01:28:59.463Z",
     "keyId": "ed75b4e6c9003876",
-    "signature": "czmKH3AFrfqYt2AM9SADbBY_62_Usy4nCWtCs9_TzWxfeE9eLnswQhzncTuHn5UpaNa3jFljmkUEV1gDQimqeA"
+    "signature": "1-7PncfT8QyQNNJqmYpZBu-3T5zslr03yB96eGXRe06V-B87P4sFp1zrqDHSnLlcivHjXVkpoW8Gz1ZEn29cTQ"
   }
 ]

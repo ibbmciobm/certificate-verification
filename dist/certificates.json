@@ -304,15 +304,15 @@
     "certificateId": "CIOBM-BEA-2026-C021",
     "issuer": "The Chartered Institute of Building Malaysia",
     "programme": "CIOB Malaysia Building Excellence Awards 2026",
-    "recipient": "JKR Sarawak",
+    "recipient": "Jabatan Kerja Raya Sarawak",
     "awardCategory": "Digital Innovation Excellence Award: Public Sector Transformation",
     "result": "WINNER",
     "issueDate": "2026-10-23",
     "status": "valid",
-    "documentHash": "5e53736b426a17a9a27ee63da5cbc7068549672ab558d5e733e0349a315a674e",
+    "documentHash": "b6621b1a8161d63abc107fe3ca602d28679cdc1702b2a0d2792a80df0dae3786",
     "issuedAt": "2026-10-09T14:20:22.188Z",
     "keyId": "ed75b4e6c9003876",
-    "signature": "Fr_19926vGdDl2aQn55WtKYP2Dsuh38oN4OvXQEbHujj7p1A2MWH_xXorSoEzNZspM2bc6PHxKtVS8QEUrgkDA"
+    "signature": "6tmTh3VNVw9FnHmNTvtVx9CRIBks9JvKCUZuDIaeAEtAdxvYESU3uHmrfYObBwJzbvE2PnNCJngEBHc0bxXnEg"
   },
   {
     "schemaVersion": 1,
@@ -799,14 +799,14 @@
     "certificateId": "CIOBM-BEA-2026-MEM-004",
     "issuer": "The Chartered Institute of Building Malaysia",
     "programme": "CIOB Malaysia Building Excellence Awards 2026",
-    "recipient": "",
+    "recipient": "Mr Siah Kwee Mow",
     "awardCategory": "Distinguished Service Recognition",
     "result": "RECOGNITION",
     "issueDate": "2026-10-23",
     "status": "valid",
-    "documentHash": "Mr Siah Kwee Mow",
-    "issuedAt": "2026-10-09T14:20:22.188Z",
+    "documentHash": "6d20aa1c0a27141d059bb5856e1575bf9980455da0badfc468f447d383a7b591",
+    "issuedAt": "2026-10-10T01:28:59.463Z",
     "keyId": "ed75b4e6c9003876",
-    "signature": "6d20aa1c0a27141d059bb5856e1575bf9980455da0badfc468f447d383a7b591"
+    "signature": "1-7PncfT8QyQNNJqmYpZBu-3T5zslr03yB96eGXRe06V-B87P4sFp1zrqDHSnLlcivHjXVkpoW8Gz1ZEn29cTQ"
   }
 ]

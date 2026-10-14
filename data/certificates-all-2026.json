@@ -278,10 +278,10 @@
   {
     "certificateId": "CIOBM-BEA-2026-INV-012",
     "recipient": "Datuk Ir. Ahmad ‘Asri Abdul Hamid",
-    "awardCategory": "CIOB Malaysia Honourable Patron Award",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
     "result": "INVITATION AWARD",
     "issueDate": "2026-10-23",
-    "documentHash": "b7ff8aa2b75714e96ad0047ba853896c245dfa2fcf374674e46a8924370ed1b5"
+    "documentHash": "9e168f2a517ee7309687f952d386a20b9257c6b2f167fa5d0a319f962f40a756"
   },
   {
     "certificateId": "CIOBM-BEA-2026-INV-013",
@@ -420,6 +420,14 @@
     "documentHash": "0bac26d0090b16dfc71e8679d8dadfe72d3448b68f817d6b792072b8dda3fa3d"
   },
   {
+    "certificateId": "CIOBM-BEA-2026-INV-030",
+    "recipient": "Datuk Sr Mohd Zaid Zakaria",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "documentHash": "0e4d3bc6f7ef9a5a2e9678918589f2443d564a81bfd14c856ff997c93be0c590"
+  },
+  {
     "certificateId": "CIOBM-BEA-2026-MEM-001",
     "recipient": "Datuk Dr Bernard Wang Tsun Hao",
     "awardCategory": "Distinguished Service Recognition",
@@ -448,11 +456,18 @@
   },
   {
     "certificateId": "CIOBM-BEA-2026-MEM-004",
-    "recipient": "",
+    "recipient": "Mr Siah Kwee Mow",
     "awardCategory": "Distinguished Service Recognition",
     "result": "RECOGNITION",
     "issueDate": "2026-10-23",
-    "documentHash": "Mr Siah Kwee Mow",
-    "issuedAt": "2026-10-09T14:20:22.188Z"
+    "documentHash": "6d20aa1c0a27141d059bb5856e1575bf9980455da0badfc468f447d383a7b591"
+  },
+  {
+    "certificateId": "CIOBM-BEA-2026-MEM-005",
+    "recipient": "Emeritus Prof. Dr Johan Victor Torrance Abdullah",
+    "awardCategory": "Distinguished Service Recognition",
+    "result": "RECOGNITION",
+    "issueDate": "2026-10-23",
+    "documentHash": "b9dfe61e5b88535813e907c94cd482ede9b70b33e19151a731ffb847c97d05b8"
   }
 ]

@@ -485,14 +485,14 @@
     "issuer": "The Chartered Institute of Building Malaysia",
     "programme": "CIOB Malaysia Building Excellence Awards 2026",
     "recipient": "Datuk Ir. Ahmad ‘Asri Abdul Hamid",
-    "awardCategory": "CIOB Malaysia Honourable Patron Award",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
     "result": "INVITATION AWARD",
     "issueDate": "2026-10-23",
     "status": "valid",
-    "documentHash": "b7ff8aa2b75714e96ad0047ba853896c245dfa2fcf374674e46a8924370ed1b5",
+    "documentHash": "9e168f2a517ee7309687f952d386a20b9257c6b2f167fa5d0a319f962f40a756",
     "issuedAt": "2026-10-04T04:43:40.021Z",
     "keyId": "ed75b4e6c9003876",
-    "signature": "l_td0JRmmOWqXbpGPPejIdV6UjRBfTKU0nB8w4G4RJ972wNJvxfpqtkkacxTQeAH1MkfZ1T3m1lBDos4C5oEOA"
+    "signature": "BrHAa_wDPjS1dHV64j-BGug3kHSHVGVWx1zdkUhzUEeiWywq1VoKrz4wPjCgwqmW8iwBEWG9YSMwi273nd8jRg"
   },
   {
     "schemaVersion": 1,
@@ -751,6 +751,21 @@
   },
   {
     "schemaVersion": 1,
+    "certificateId": "CIOBM-BEA-2026-INV-030",
+    "issuer": "The Chartered Institute of Building Malaysia",
+    "programme": "CIOB Malaysia Building Excellence Awards 2026",
+    "recipient": "Datuk Sr Mohd Zaid Zakaria",
+    "awardCategory": "CIOB Malaysia Distinguished Leadership",
+    "result": "INVITATION AWARD",
+    "issueDate": "2026-10-23",
+    "status": "valid",
+    "documentHash": "0e4d3bc6f7ef9a5a2e9678918589f2443d564a81bfd14c856ff997c93be0c590",
+    "issuedAt": "2026-10-14T15:45:00.000Z",
+    "keyId": "ed75b4e6c9003876",
+    "signature": "Kcb46LtCNyW9CN2ASYYsc2t4-5MYuTFMhXfCit0MLKrljm2jXQz_EuxLofdZ8pDntvMllF2xLiTyfsBOZK94dg"
+  },
+  {
+    "schemaVersion": 1,
     "certificateId": "CIOBM-BEA-2026-MEM-001",
     "issuer": "The Chartered Institute of Building Malaysia",
     "programme": "CIOB Malaysia Building Excellence Awards 2026",
@@ -808,5 +823,20 @@
     "issuedAt": "2026-10-10T01:28:59.463Z",
     "keyId": "ed75b4e6c9003876",
     "signature": "1-7PncfT8QyQNNJqmYpZBu-3T5zslr03yB96eGXRe06V-B87P4sFp1zrqDHSnLlcivHjXVkpoW8Gz1ZEn29cTQ"
+  },
+  {
+    "schemaVersion": 1,
+    "certificateId": "CIOBM-BEA-2026-MEM-005",
+    "issuer": "The Chartered Institute of Building Malaysia",
+    "programme": "CIOB Malaysia Building Excellence Awards 2026",
+    "recipient": "Emeritus Prof. Dr Johan Victor Torrance Abdullah",
+    "awardCategory": "Distinguished Service Recognition",
+    "result": "RECOGNITION",
+    "issueDate": "2026-10-23",
+    "status": "valid",
+    "documentHash": "b9dfe61e5b88535813e907c94cd482ede9b70b33e19151a731ffb847c97d05b8",
+    "issuedAt": "2026-10-14T15:45:00.000Z",
+    "keyId": "ed75b4e6c9003876",
+    "signature": "qFAbvitkmu2UlwM9GHuT8xG_f4ShW1ftGn_bbzAgJ3vUbefTEVmsYtoil-43hEYw-mPtbBNqCgodgDcU-79VGQ"
   }
 ]
